@@ -1,2 +1,3 @@
 # UCT Micromouse EEE3088F Project
-![](g5.gif)
+
+![Micromouse GIF](g5.gif)
