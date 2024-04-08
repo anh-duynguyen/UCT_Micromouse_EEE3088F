@@ -1,8 +1,8 @@
-![Mouse]((Documentation/Other/Formatting/tumblr_pffb1xFtaW1w67ki0o4_540.gif))
-
 # Documentation
 
 This folder contains datasheets and project documentation related to the EEE3088F course at UCT (in 2024).
+
+![Mouse](Other/Formatting/tumblr_pffb1xFtaW1w67ki0o4_540.gif)
 
 ## Sensing Module
 
