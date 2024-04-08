@@ -1,3 +1,4 @@
+![Mouse GIF](Documentation/Other/Formatting/tumblr_pffb1xFtaW1w67ki0o4_540.gif)
 # Documentation
 
 This folder contains datasheets and project documentation related to the EEE3088F course at UCT (in 2024).
@@ -18,5 +19,5 @@ This section includes interfacing diagrams, the EEE3088F project brief, and a re
 
 Reports submitted for EEE3088F are available in both PDF and LaTeX formats. Please note that some of the links in these reports may not work due to the restructuring of this repository.
 
-![Mouse GIF](Documentation/Other/Formatting/tumblr_pffb1xFtaW1w67ki0o4_540.gif)
+
 
