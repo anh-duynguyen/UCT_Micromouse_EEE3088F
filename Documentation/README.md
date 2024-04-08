@@ -1,4 +1,4 @@
-![Mouse](Documentation/Other/Formatting/tumblr_pffb1xFtaW1w67ki0o4_540.gif)
+![Mouse]((https://64.media.tumblr.com/93d8afe2bd2daace8af044b1e19e1b39/tumblr_pffb1xFtaW1w67ki0o4_540.gifv))
 
 # Documentation
 
