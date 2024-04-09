@@ -5,7 +5,6 @@
 *.000
 *.bak
 *.bck
-*.bkp
 *.kicad_pcb-bak
 *.kicad_sch-bak
 *-backups
@@ -18,8 +17,6 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 
-# Production files
-jlcpcb/
 # Netlist files (exported from Eeschema)
 *.net
 
@@ -30,12 +27,3 @@ jlcpcb/
 # Exported BOM files
 *.xml
 *.csv
-
-#moodboard
-*.drawio
-notes/
-sym-lib-table
-*auto_saved_files*
-*.lck
-*-lib-table
-*.db
