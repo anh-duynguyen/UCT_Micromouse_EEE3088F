@@ -32,16 +32,16 @@ Software developed for the hardware or instructions on where to find relevant so
 The project documentation can be found in the Documents directory and the files required to produce the PCB can be found in the Production directory.
 
 ## Contact
-Anh Duy Nguyen
-Ronald Walters
+- Anh Duy Nguyen
+- Ronald Walters
 
 ## Project Status and Roadmap
 This project is actively under developement.
 
 ## Authors and Acknowledgement
 ### Authors:
-Anh Duy Nguyen
-Ronald Walters
+- Anh Duy Nguyen
+- Ronald Walters
 
 ## License
 GPL-2.0 license
