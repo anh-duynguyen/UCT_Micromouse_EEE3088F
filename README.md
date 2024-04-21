@@ -19,15 +19,6 @@ This project is for the development and design of Sensing and Power Modules for 
   - Project documentation
   - Component datasheets
 
-- **Production**: 
-  - Gerber files
-  - BOM (Bill of Materials)
-  - Budget
-  - Anything required by the fabrication houses
-
-## Installation
-Software developed for the hardware or instructions on where to find relevant sofware can be found in the Firmware directory.
-
 ## Usage
 The project documentation can be found in the Documents directory and the files required to produce the PCB can be found in the Production directory.
 
