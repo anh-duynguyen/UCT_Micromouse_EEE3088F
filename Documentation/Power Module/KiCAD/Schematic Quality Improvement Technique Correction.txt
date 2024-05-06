@@ -1,0 +1,3 @@
+** when using the Schematic Quality Improvement Technique, in step x)
+(Antialiasing: Art Optimized [Super Sampling] ) must be changed to Antialiasing: Type Optimized (Hinted)
+this ensures text antialiasing setting will be honored and is best suited for text objects.
