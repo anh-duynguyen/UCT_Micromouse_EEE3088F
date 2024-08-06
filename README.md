@@ -1,7 +1,7 @@
 # UCT Micromouse EEE3088F Project
 
 ## Description
-This project is for the development and design of Sensing and Power Modules for a micromouse in EEE3088F 2024. 
+This project is for the development and design of Sensing and Power Modules for a micromouse in EEE3088F 2024. This repo is further used for the development of the UCT Micromouse in the 2nd semester Third Year Design Course, EEE3097S, EEE3098S and EEE3099S. 
 
 ![Micromouse GIF](Documentation/Other/Formatting/g5.gif)
 
